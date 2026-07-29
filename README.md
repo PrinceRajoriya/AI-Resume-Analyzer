@@ -430,7 +430,7 @@ Through this project, I explored and implemented concepts related to:
 
 ## 👨‍💻 Author
 
-### Prince Rajoriya
+### Prince Rajoriya ###
 
 B.Tech Computer Science Engineering Student
 
